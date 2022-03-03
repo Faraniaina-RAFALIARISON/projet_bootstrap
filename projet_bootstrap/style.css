@@ -1,0 +1,56 @@
+
+div a{
+    color:white;
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+.icones-reseau {
+    width: 35px;
+    height: 35px;
+}
+.icones {
+    column-gap: 2em;
+}
+.footer3{
+    column-gap: 1em;
+}
+/* .contenair-image {
+    width: fit-content;
+    height: fit-content;
+} */
+img {
+    width: 600px;
+    height: auto;
+}
+div a:hover{
+    color: tomato;
+}
+.titre{
+    color: tomato;
+    font-size: large;
+}
+
+
+.images {
+    width: fit-content;
+    height: fit-content;
+}
+.article_chat {
+    column-gap: 1em;
+    box-shadow: grey;
+    border: grey;
+}
+.carte{
+    height: 40vh;
+    width: 98vw;
+}
+.video {
+    height: 90vh;
+    width: 98vw;
+
+}
+body nav{
+    position:fixed;
+}
